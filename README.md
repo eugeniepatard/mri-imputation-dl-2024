@@ -16,7 +16,7 @@ The goal is to create a deep learning model that learns to recover missing porti
 
 ## 🗂️ Project Structure
 
-- `Assessment.ipynb`: Contains all analysis, code for generating the dataset, model design, training loop, and final predictions.
+- `MRI-imputation-pipeline.ipynb`: Contains all analysis, code for generating the dataset, model design, training loop, and final predictions.
 - `test_set_nogaps.npy`: Output file with the reconstructed MRI images for the test set.
 - `References.md`: A record of all external tools and sources used during the project.
 - `generated_images/`: Folder containing the artificially generated images for training.
